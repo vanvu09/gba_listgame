@@ -5957,24 +5957,24 @@
     "genre": "Arcade",
     "rating": 4.3
   },
-    {
-      "name": "Classic NES Series - Dr. Mario (USA, Europe)",
-      "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Classic%20NES%20Series%20-%20Dr.%20Mario%20%28USA%2C%20Europe%29.zip",
-      "genre": "Puzzle",
-      "rating": 4.3
-    },
-    {
-      "name": "Classic NES Series - Excitebike (USA, Europe)",
-      "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Classic%20NES%20Series%20-%20Excitebike%20%28USA%2C%20Europe%29.zip",
-      "genre": "Arcade",
-      "rating": 4.3
-    },
-    {
-      "name": "Classic NES Series - Ice Climber (USA, Europe)",
-      "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Classic%20NES%20Series%20-%20Ice%20Climber%20%28USA%2C%20Europe%29.zip",
-      "genre": "Arcade",
-      "rating": 4.3
-    },
+  {
+    "name": "Classic NES Series - Dr. Mario (USA, Europe)",
+    "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Classic%20NES%20Series%20-%20Dr.%20Mario%20%28USA%2C%20Europe%29.zip",
+    "genre": "Puzzle",
+    "rating": 4.3
+  },
+  {
+    "name": "Classic NES Series - Excitebike (USA, Europe)",
+    "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Classic%20NES%20Series%20-%20Excitebike%20%28USA%2C%20Europe%29.zip",
+    "genre": "Arcade",
+    "rating": 4.3
+  },
+  {
+    "name": "Classic NES Series - Ice Climber (USA, Europe)",
+    "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Classic%20NES%20Series%20-%20Ice%20Climber%20%28USA%2C%20Europe%29.zip",
+    "genre": "Arcade",
+    "rating": 4.3
+  },
     {
       "name": "Classic NES Series - Metroid (USA, Europe)",
       "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Classic%20NES%20Series%20-%20Metroid%20%28USA%2C%20Europe%29.zip",
