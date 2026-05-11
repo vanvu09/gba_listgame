@@ -1,0 +1,29 @@
+[
+{
+    "name": "Legend of Zelda, The - The Minish Cap.zip",
+    "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28USA%29.zip",
+    "rating": 4.5
+  },
+{
+    "name": "Mario Kart - Super Circuit (USA)",
+  "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Mario%20Kart%20-%20Super%20Circuit%20%28USA%29.zip",
+  "genre": "Action",
+  "rating": 4.4
+ },
+   {
+      "name": "Pokemon - Ruby Version (USA, Europe) (Rev 2)",
+      "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Pokemon%20-%20Ruby%20Version%20%28USA%2C%20Europe%29%20%28Rev%202%29.zip",
+      "genre": "RPG",
+      "rating": 4.3
+    },
+{
+    "name": "Metroid - Zero Mission.zip",
+    "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Metroid%20-%20Zero%20Mission%20%28USA%29.zip",
+    "rating": 4.4
+  },
+{
+    "name": "Castlevania - Aria of Sorrow.zip",
+    "url": "https://gbaromlibrary.willtrailbyte.workers.dev/Castlevania%20-%20Aria%20of%20Sorrow%20%28USA%29.zip",
+    "rating": 4.5
+  },
+]
